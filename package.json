@@ -1,11 +1,10 @@
 {
-  "name": "node-typescript-starter",
+  "name": "npm-dependencies-bundler",
   "version": "0.5.0",
-  "author": "Freek Mencke",
-  "homepage": "https://twitter.com/FreekMencke",
+  "author": "Jens Ungerer",
   "repository": {
     "type": "git",
-    "url": "https://github.com/FreekMencke/node-typescript-starter"
+    "url": ""
   },
   "license": "MIT",
   "scripts": {
