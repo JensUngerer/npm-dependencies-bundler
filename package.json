@@ -19,7 +19,7 @@
     "lint": "eslint . --ext .ts"
   },
   "dependencies": {
-    "npm": "^6.14.5",
+    "npm": "^6.14.6",
     "rimraf": "^3.0.2"
   },
   "devDependencies": {
